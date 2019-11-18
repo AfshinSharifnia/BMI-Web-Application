@@ -1,2 +1,1 @@
-# BMI-Web-Application
-Body mass index calculator
+BMI Created with ASP.Net Core MVC (C#)
